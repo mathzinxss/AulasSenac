@@ -1,0 +1,29 @@
+1) Cadastrar 5 números num vetor e imprimir os valores cadastrados na ordem inversa.
+-----------------------------
+2) Criar 2 vetores com 5 elementos cada um.
+Receber números num dos vetores e para cada valor digitado multiplicar por 2 e armazenar no outro vetor. 
+-----------------------------
+3)Escreva um algoritmo que solicite ao usuário a entrada de 5 números, e que exiba o somatório desses números na tela.
+Após exibir a soma, o programa deve mostrar também os números que o usuário digitou, um por linha.
+
+4) Escreva um algoritmo que solicite ao usuário a entrada de 5 nomes, e que exiba a lista desses nomes na tela.
+Após exibir essa lista, o programa deve mostrar também os nomes na ordem inversa em que o usuário os digitou, um por linha.
+
+5)Faça um algoritmo para ler um valor N qualquer (que será o tamanho dos vetores). Após, ler dois 
+vetores A e B (de tamanho N cada um) e depois armazenar em um terceiro vetor Soma a soma dos 
+elementos do vetor A com os do vetor B (respeitando as mesmas posições) e escrever o vetor Soma. 
+
+6)Crie um algoritmo para ler 10 números inteiros e mostrar os números pares deste vetor;
+
+7)Crie um algoritmo para ler 15 números inteiros e mostrar no final, os que forem maiores 
+ou igual a 10
+
+8)Faça um algoritmo que leia 20 números e armazene em um vetor. Depois, some os 10 
+primeiros elementos deste vetor;
+
+9)Faça um algoritmo para ler um vetor com 10 elementos e inverter a posição destes 
+elementos, de tal modo que o primeiro elemento venha a ser o último depois da 
+inversão;	
+
+10)Criar	um	algoritmo	que	leia	e	armazene	nome	e	duas	notas	de	6 alunos,	em	seguida	calcule	e	
+armazene	a	média,	no	final	imprima	o	Nome	as	duas	Notas	e	a	Média	de	todos	os	alunos

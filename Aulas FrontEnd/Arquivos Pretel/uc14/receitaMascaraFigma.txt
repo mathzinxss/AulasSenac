@@ -1,0 +1,7 @@
+Mascaras no FIGMA
+
+1 - mascara não fica à frente do objeto que será mascarado, fica atras
+a - inserir uma foto
+b - fazer o "shape" a "forma" que será a mascara
+c - mandar a "forma" para trás da foto - botão direito do mouse opção: send to back(mande para trás)
+d - selecionar mascara(forma) e a foto - utilizar as camadas no painel do lado direito

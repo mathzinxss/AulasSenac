@@ -1,0 +1,32 @@
+Estrutura de Decisão - se senao
+
+1)Criar um programa para mostrar se o usuário é adulto.
+O critério para ser adulto é ter 18 anos ou mais (>=).
+
+2)Criar um programa para mostrar se um número é par ou ímpar.
+
+3)Criar um programa para mostrar se o ano é bissexto ou não. 
+
+4)Criar um programa para verificar se o número digitado é maior que 10.
+
+5)Ler um valor e escrever se é positivo ou negativo (considere
+o valor zero como positivo).
+
+6)Faça um algoritmo que leia as notas n1 e n2 de um aluno. Calcular a média aritmética e escrever uma mensagem que diga se o aluno foi ou não aprovado. Obs: Considere que a média para aprovação é 6,0.
+
+7)Faça um algoritmo que leia o ano atual e o ano de nascimento de uma pessoa. Escrever uma mensagem que diga se ela poderá ou não votar este ano.
+
+8)As maças custam R$1,30 cada se forem compradas menos de uma dúzia, e R$1,00 se forem compradas pelo menos 12. Escreve um programa que leia o número de maças compradas, calcule e escreva o custo total da compra.
+
+9) Faça um programa que pergunte em que turno você estuda. Peça para digitar M-matutino  ou  N-noturno. Imprima a mensagem “Bom dia!” ou “Boa Noite” ou “Valor inválido” .
+
+
+
+
+
+
+
+
+
+
+

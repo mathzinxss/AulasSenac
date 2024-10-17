@@ -1,0 +1,66 @@
+- na area de entrda do FIGMA clicar em NEW DESIGN FILE/DESIGN AND PROTOTYPE
+
+- clicar em FRAME - logo de hashtag no menu superior esquerdo
+
+- com frame selecionado, na aba frama(lado direito) abra a opção phone
+
+- escolhi ifone 14 15 pro max
+
+- o figma colocou um frame com o tamanho da tela do Ifone na área de design - W(largura)430 H(altura)932 
+
+- verifiquei o resultado no Present(Live Server) - observe que mostrará a moldura do Iphone
+
+- colocarei um retangulo como Cabeçalho - selecionei a ferramenta desenho com a opção retengulo
+
+- farei uma copia do cabeçalho - com a tecla Alt pressionada clicar no retangulo e arrasta-lo
+
+- criarei 4 cards - com a ferramenta retangulo
+
+- testar no live server
+
+- rolamento vertical - cima/baixo
+ selecionar a pagina 1(frame) no painel esquerdo e   aumentar sua altura - varios metodos demonstrados  em aula
+
+- menu no rodape: criar 3 quadrados com a ferramenta retangulo pressionando a tecla shifi
+
+- Fazer uma copia da pagina 1
+  selecionar a pagina 1 no menu lateral esquerdo
+  na area de deign com a tecla alt pressionada clicar na pagina 1 segurar e arrastar
+
+
+- fazer o link entre as paginas
+selecionar no frame qual objeto será link
+no menu da direia escolher prototype
+1º modo:em interactions escolher o evento(tap = click), para onde será o link (outro frame) e a forma(instant)
+2º modo: no objeto que será link e está seleciona localizar e clicar no sinal de mais (+) e arrastá - lo até o frame que será o alvo desse link 
+
+
+SCROLL HORIZONTAL
+
+criar um novo frame horizontal que terá o conteudo que será "rolado"
+
+inserir no frame principal
+
+redimensionar o frame horizontal para que caiba dentro do frame principal
+
+Com o frame horizontal selecionado, vá na aba design e marque Clip content - ele esconderá o conteudo que está estrapolando o frame
+
+ainda não estará com rolagem
+
+
+Com o frame horizontal selecionado, vá na aba Prototype e na opção overflow selecione horizontal
+
+já estará com rolagem
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+overlay
+
+
+
+
+
+
+
+
+
+

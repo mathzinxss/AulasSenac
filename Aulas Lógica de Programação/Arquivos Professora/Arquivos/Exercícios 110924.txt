@@ -1,5 +1,0 @@
-1. Leia um vetor de 12 posições e em seguida ler também dois valores X e Y quaisquer correspondentes a duas posições no vetor. Ao final seu programa deverá escrever a soma dos valores encontrados nas respectivas posições X e Y.
------------------------------------------------
-2. Declare um vetor de 10 posições e o preencha com os 10 primeiros números impares e o escreva.
------------------------------------------------
-3. Leia um vetor de 16 posições e troque os 8 primeiros valores pelos 8 últimos e vice-e-versa. Escreva ao final o vetor obtido.

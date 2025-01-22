@@ -1,0 +1,7 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\Exercícios\ex005\bin\Debug\ex005.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\Exercícios\ex005\bin\Debug\ex005.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\Exercícios\ex005\bin\Debug\ex005.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\Exercícios\ex005\obj\Debug\ex005.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\Exercícios\ex005\obj\Debug\ex005.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\Exercícios\ex005\obj\Debug\ex005.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\Exercícios\ex005\obj\Debug\ex005.pdb

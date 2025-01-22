@@ -1,0 +1,10 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogoGenius\bin\Debug\jogoGenius.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogoGenius\bin\Debug\jogoGenius.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogoGenius\bin\Debug\jogoGenius.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogoGenius\obj\Debug\jogoGenius.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogoGenius\obj\Debug\jogoGenius.frmGenius.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogoGenius\obj\Debug\jogoGenius.Properties.Resources.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogoGenius\obj\Debug\jogoGenius.csproj.GenerateResource.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogoGenius\obj\Debug\jogoGenius.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogoGenius\obj\Debug\jogoGenius.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogoGenius\obj\Debug\jogoGenius.pdb

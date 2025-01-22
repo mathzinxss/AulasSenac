@@ -1,0 +1,7 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\ex049\bin\Debug\ex049.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\ex049\bin\Debug\ex049.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\ex049\bin\Debug\ex049.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\ex049\obj\Debug\ex049.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\ex049\obj\Debug\ex049.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\ex049\obj\Debug\ex049.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\ex049\obj\Debug\ex049.pdb

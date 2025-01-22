@@ -1,0 +1,10 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\mediaNúmeros\bin\Debug\mediaNúmeros.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\mediaNúmeros\bin\Debug\mediaNúmeros.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\mediaNúmeros\bin\Debug\mediaNúmeros.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\mediaNúmeros\obj\Debug\mediaNúmeros.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\mediaNúmeros\obj\Debug\mediaNúmeros.frmCalculaMedia.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\mediaNúmeros\obj\Debug\mediaNúmeros.Properties.Resources.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\mediaNúmeros\obj\Debug\mediaNúmeros.csproj.GenerateResource.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\mediaNúmeros\obj\Debug\mediaNúmeros.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\mediaNúmeros\obj\Debug\mediaNúmeros.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\mediaNúmeros\obj\Debug\mediaNúmeros.pdb

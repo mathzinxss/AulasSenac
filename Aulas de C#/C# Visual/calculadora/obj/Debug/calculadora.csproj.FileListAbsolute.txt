@@ -1,0 +1,10 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\calculadora\bin\Debug\calculadora.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\calculadora\bin\Debug\calculadora.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\calculadora\obj\Debug\calculadora.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\calculadora\obj\Debug\calculadora.FrmCalculadora.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\calculadora\obj\Debug\calculadora.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\calculadora\obj\Debug\calculadora.pdb

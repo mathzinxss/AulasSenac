@@ -1,0 +1,10 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\TI46 - Lista de Nomes\bin\Debug\TI46 - Lista de Nomes.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\TI46 - Lista de Nomes\bin\Debug\TI46 - Lista de Nomes.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\TI46 - Lista de Nomes\bin\Debug\TI46 - Lista de Nomes.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\TI46 - Lista de Nomes\obj\Debug\TI46 - Lista de Nomes.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\TI46 - Lista de Nomes\obj\Debug\TI46___Lista_de_Nomes.FrmListaDeNomes.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\TI46 - Lista de Nomes\obj\Debug\TI46___Lista_de_Nomes.Properties.Resources.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\TI46 - Lista de Nomes\obj\Debug\TI46 - Lista de Nomes.csproj.GenerateResource.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\TI46 - Lista de Nomes\obj\Debug\TI46 - Lista de Nomes.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\TI46 - Lista de Nomes\obj\Debug\TI46 - Lista de Nomes.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\TI46 - Lista de Nomes\obj\Debug\TI46 - Lista de Nomes.pdb

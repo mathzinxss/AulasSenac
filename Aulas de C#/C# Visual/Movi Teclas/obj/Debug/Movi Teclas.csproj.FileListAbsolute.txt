@@ -1,0 +1,10 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Movi Teclas\bin\Debug\Movi Teclas.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Movi Teclas\bin\Debug\Movi Teclas.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Movi Teclas\bin\Debug\Movi Teclas.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Movi Teclas\obj\Debug\Movi Teclas.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Movi Teclas\obj\Debug\Movi_Teclas.frmMoviTeclas.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Movi Teclas\obj\Debug\Movi_Teclas.Properties.Resources.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Movi Teclas\obj\Debug\Movi Teclas.csproj.GenerateResource.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Movi Teclas\obj\Debug\Movi Teclas.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Movi Teclas\obj\Debug\Movi Teclas.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Movi Teclas\obj\Debug\Movi Teclas.pdb

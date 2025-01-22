@@ -1,0 +1,10 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogo da Snake\bin\Debug\jogo da Snake.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogo da Snake\bin\Debug\jogo da Snake.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogo da Snake\bin\Debug\jogo da Snake.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogo da Snake\obj\Debug\jogo da Snake.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogo da Snake\obj\Debug\jogo_da_Snake.Form1.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogo da Snake\obj\Debug\jogo_da_Snake.Properties.Resources.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogo da Snake\obj\Debug\jogo da Snake.csproj.GenerateResource.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogo da Snake\obj\Debug\jogo da Snake.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogo da Snake\obj\Debug\jogo da Snake.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\jogo da Snake\obj\Debug\jogo da Snake.pdb

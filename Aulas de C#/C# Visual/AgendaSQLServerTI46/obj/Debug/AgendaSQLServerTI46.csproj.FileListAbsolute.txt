@@ -1,0 +1,10 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\AgendaSQLServerTI46\bin\Debug\AgendaSQLServerTI46.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\AgendaSQLServerTI46\bin\Debug\AgendaSQLServerTI46.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\AgendaSQLServerTI46\bin\Debug\AgendaSQLServerTI46.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\AgendaSQLServerTI46\obj\Debug\AgendaSQLServerTI46.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\AgendaSQLServerTI46\obj\Debug\AgendaSQLServerTI46.FrmAgendaSQL.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\AgendaSQLServerTI46\obj\Debug\AgendaSQLServerTI46.Properties.Resources.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\AgendaSQLServerTI46\obj\Debug\AgendaSQLServerTI46.csproj.GenerateResource.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\AgendaSQLServerTI46\obj\Debug\AgendaSQLServerTI46.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\AgendaSQLServerTI46\obj\Debug\AgendaSQLServerTI46.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\AgendaSQLServerTI46\obj\Debug\AgendaSQLServerTI46.pdb

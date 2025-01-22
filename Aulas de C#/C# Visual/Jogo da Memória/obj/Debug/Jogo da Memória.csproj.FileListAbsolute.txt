@@ -1,0 +1,10 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jogo da Memória\bin\Debug\Jogo da Memória.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jogo da Memória\bin\Debug\Jogo da Memória.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jogo da Memória\bin\Debug\Jogo da Memória.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jogo da Memória\obj\Debug\Jogo da Memória.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jogo da Memória\obj\Debug\Jogo_da_Memória.frmJogoDaMemoria.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jogo da Memória\obj\Debug\Jogo_da_Memória.Properties.Resources.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jogo da Memória\obj\Debug\Jogo da Memória.csproj.GenerateResource.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jogo da Memória\obj\Debug\Jogo da Memória.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jogo da Memória\obj\Debug\Jogo da Memória.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jogo da Memória\obj\Debug\Jogo da Memória.pdb

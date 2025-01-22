@@ -1,0 +1,7 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\ex047\bin\Debug\ex047.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\ex047\bin\Debug\ex047.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\ex047\bin\Debug\ex047.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\ex047\obj\Debug\ex047.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\ex047\obj\Debug\ex047.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\ex047\obj\Debug\ex047.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\Aulas\ex047\obj\Debug\ex047.pdb

@@ -1,0 +1,10 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jokenpô\bin\Debug\Jokenpô.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jokenpô\bin\Debug\Jokenpô.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jokenpô\bin\Debug\Jokenpô.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jokenpô\obj\Debug\Jokenpô.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jokenpô\obj\Debug\Jokenpô.Form1.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jokenpô\obj\Debug\Jokenpô.Properties.Resources.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jokenpô\obj\Debug\Jokenpô.csproj.GenerateResource.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jokenpô\obj\Debug\Jokenpô.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jokenpô\obj\Debug\Jokenpô.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Jokenpô\obj\Debug\Jokenpô.pdb

@@ -1,0 +1,10 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Editor de Imagens\bin\Debug\Editor de Imagens.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Editor de Imagens\bin\Debug\Editor de Imagens.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Editor de Imagens\bin\Debug\Editor de Imagens.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Editor de Imagens\obj\Debug\Editor de Imagens.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Editor de Imagens\obj\Debug\Editor_de_Imagens.frmImagem.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Editor de Imagens\obj\Debug\Editor_de_Imagens.Properties.Resources.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Editor de Imagens\obj\Debug\Editor de Imagens.csproj.GenerateResource.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Editor de Imagens\obj\Debug\Editor de Imagens.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Editor de Imagens\obj\Debug\Editor de Imagens.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\C# Visual\Editor de Imagens\obj\Debug\Editor de Imagens.pdb

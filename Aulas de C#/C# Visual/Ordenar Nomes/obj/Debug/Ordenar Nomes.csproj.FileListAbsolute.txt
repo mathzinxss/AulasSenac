@@ -1,0 +1,10 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\Ordenar Nomes\bin\Debug\Ordenar Nomes.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\Ordenar Nomes\bin\Debug\Ordenar Nomes.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\Ordenar Nomes\bin\Debug\Ordenar Nomes.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\Ordenar Nomes\obj\Debug\Ordenar Nomes.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\Ordenar Nomes\obj\Debug\Ordenar_Nomes.frmOrdenarNomes.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\Ordenar Nomes\obj\Debug\Ordenar_Nomes.Properties.Resources.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\Ordenar Nomes\obj\Debug\Ordenar Nomes.csproj.GenerateResource.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\Ordenar Nomes\obj\Debug\Ordenar Nomes.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\Ordenar Nomes\obj\Debug\Ordenar Nomes.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\Ordenar Nomes\obj\Debug\Ordenar Nomes.pdb

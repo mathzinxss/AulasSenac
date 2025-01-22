@@ -1,0 +1,11 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\webBrownser\obj\Debug\webBrownser.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\webBrownser\obj\Debug\webBrownser.Properties.Resources.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\webBrownser\obj\Debug\webBrownser.csproj.GenerateResource.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\webBrownser\obj\Debug\webBrownser.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\webBrownser\bin\Debug\webBrownser.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\webBrownser\bin\Debug\webBrownser.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\webBrownser\bin\Debug\webBrownser.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\webBrownser\obj\Debug\webBrownser.frmPaginaInicial.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\webBrownser\obj\Debug\webBrownser.frmPrincipal.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\webBrownser\obj\Debug\webBrownser.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\webBrownser\obj\Debug\webBrownser.pdb

@@ -1,0 +1,13 @@
+C:\Users\mathias.fsilva\source\repos\CSharp\Criando Menu\bin\Debug\Criando Menu.exe.config
+C:\Users\mathias.fsilva\source\repos\CSharp\Criando Menu\bin\Debug\Criando Menu.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\Criando Menu\bin\Debug\Criando Menu.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\Criando Menu\obj\Debug\Criando Menu.csproj.AssemblyReference.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\Criando Menu\obj\Debug\Criando_Menu.formulários.frmOpcao1.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\Criando Menu\obj\Debug\Criando_Menu.frmMenu.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\Criando Menu\obj\Debug\Criando_Menu.Properties.Resources.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\Criando Menu\obj\Debug\Criando Menu.csproj.GenerateResource.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\Criando Menu\obj\Debug\Criando Menu.csproj.CoreCompileInputs.cache
+C:\Users\mathias.fsilva\source\repos\CSharp\Criando Menu\obj\Debug\Criando Menu.exe
+C:\Users\mathias.fsilva\source\repos\CSharp\Criando Menu\obj\Debug\Criando Menu.pdb
+C:\Users\mathias.fsilva\source\repos\CSharp\Criando Menu\obj\Debug\Criando_Menu.Acesso.resources
+C:\Users\mathias.fsilva\source\repos\CSharp\Criando Menu\obj\Debug\Criando_Menu.formulario.frmOpcao2.resources
